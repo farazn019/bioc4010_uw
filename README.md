@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/2017-JupyterNotebooksForGeophysics/master)
+
+
 # Jupyter Notebook for BIOC-4010
 This is a notebook under development for teaching BIOC-4010 at UWindsor.
 
