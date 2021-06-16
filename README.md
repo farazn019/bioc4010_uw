@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/farazn019/bioc4010_uw/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farazn019/bioc4010_uw/HEAD)
 
 
 # Jupyter Notebook for BIOC-4010
