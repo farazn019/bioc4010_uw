@@ -1,0 +1,6 @@
+name: BIOC-4010_UW
+dependencies: 
+  - python =3.8
+  - biopython =1.78
+  - ipywidgets =7.6.3
+  - nglview =3.0.1
